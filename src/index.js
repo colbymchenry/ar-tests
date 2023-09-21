@@ -69,4 +69,4 @@ class ReactArApp extends Component {
 
 
 
-render(<ReactArApp />, document.getElementById("root"));
+// render(<ReactArApp />, document.getElementById("root"));
